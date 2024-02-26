@@ -5,11 +5,11 @@ Basic Website V2 is a project that showcases how our basic website was upgraded;
 ## Deployment
 
 Live Demo Link: 
-https://engrshege.github.io/basic-website/
+https://engrshege.github.io/basic-website-v2/
 
 Picture Preview:
 
-![basic2](./img/preview.png)
+![basic2](./img/basic_preview.png)
 
 
 
